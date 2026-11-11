@@ -1,0 +1,11 @@
+{
+  "name": "easyenv",
+  "version": "0.1.0",
+  "description": "Create interviews, labs and challenges, and manage your EasyEnv workspaces from Claude.",
+  "author": {
+    "name": "EasyEnv",
+    "url": "https://easyenv.io"
+  },
+  "homepage": "https://easyenv.io",
+  "repository": "https://github.com/donedeploy/easyenv-mcp"
+}

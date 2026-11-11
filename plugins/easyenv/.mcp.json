@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "easyenv": {
+      "type": "http",
+      "url": "https://mcp.easyenv.io/mcp"
+    }
+  }
+}

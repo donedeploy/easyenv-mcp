@@ -1,0 +1,15 @@
+{
+  "name": "easyenv",
+  "description": "Official EasyEnv plugins for Claude Code.",
+  "owner": {
+    "name": "EasyEnv",
+    "url": "https://easyenv.io"
+  },
+  "plugins": [
+    {
+      "name": "easyenv",
+      "source": "./plugins/easyenv",
+      "description": "Create interviews, labs and challenges, and manage your EasyEnv workspaces from Claude."
+    }
+  ]
+}
